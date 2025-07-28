@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=800&color=F7971E&center=true&vCenter=true&width=550&lines=Code+like+a+wizard!;Dream+in+Python+and+JavaScript.;Welcome+to+my+Night+City.;Building+and+sleeping...;Stay+geeky+%26+stay+dreamy!+%F0%9F%8C%B4" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=800&color=F7971E&center=true&vCenter=true&width=550&lines=Learn+more+debug+everywhere!;Dream+in+Python+and+JavaScript.;Welcome+to+my+Night+City.;Building+and+sleeping...;Stay+geeky+%26+stay+dreamy!+%F0%9F%8C%B4" />
 </p>
 
 
