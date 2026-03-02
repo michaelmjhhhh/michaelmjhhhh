@@ -1,8 +1,8 @@
 **Cooking...**
 
-# Hi there, I'm [Michael] 👋
+# Hi there, I'm Michael 👋
 
-**[A FRC Programmer]** 
+**A FRC Programmer** 
 
 
 
@@ -18,8 +18,9 @@
 
 ### 📊 Github Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[michaelmjhhhh]&show_icons=true&theme=transparent&hide_border=true" height="150" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelmjhhhh&show_icons=true&theme=transparent&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmjhhhh&layout=compact&theme=transparent&hide_border=true" height="150" />
 </p>
 
 ---
