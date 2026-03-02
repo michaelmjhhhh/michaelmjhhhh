@@ -19,7 +19,7 @@
 ### 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelmjhhhh&theme=zenburn" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelmjhhhh&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" />
 </p>
 
 ---
