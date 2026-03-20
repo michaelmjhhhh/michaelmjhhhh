@@ -26,10 +26,12 @@ I'm a developer who believes that clean code and a good sense of humor are the t
 
 ---
 
-## 📊 Git Stats
+## 📊 Git Stats & Activity
+![Michael's Stats](https://github-readme-stats.vercel.app/api?username=michaelmjhhhh&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmjhhhh&layout=compact&theme=tokyonight&count_private=true)
 
-![Michael's Stats](https://github-readme-stats.vercel.app/api?username=michaelmjhhhh&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmjhhhh&layout=compact&theme=tokyonight)
+### 📈 Weekly Contribution Radar
+![Michael's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=michaelmjhhhh&theme=tokyo-night)
 
 ---
 
