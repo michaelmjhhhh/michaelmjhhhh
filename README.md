@@ -6,12 +6,7 @@
 
 ## 📖 About Me
 
-I'm a developer who believes that clean code and a good sense of humor are the two pillars of engineering. My username `mjhhhh` isn't just a name; it's a representation of my workflow:
-
-* **H**ustle: Writing logic that works.
-* **H**ack: Exploring new frameworks and breaking things (then fixing them).
-* **H**elp: Contributing to open source and sharing knowledge.
-* **H**mm: The sound I make when a "5-minute fix" takes 5 hours.
+I'm a IB student and FRC programmer. I'm interested in anything related to programming. I love trying coding models and agents!
 
 ---
 
