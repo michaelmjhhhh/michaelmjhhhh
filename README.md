@@ -37,22 +37,11 @@ I'm a IB student and FRC programmer. I'm interested in anything related to progr
 
 ## 🔭 Current Focus
 
-* 🔭 **Working on:** [Project Name] - A cool app that does [X].
+* 🔭 **Working on:** [TodoFocus].
 * 🌱 **Learning:** Advanced system design and specialized AI integration.
-* 💬 **Ask me about:** Why I have so many 'H's in my name, or anything related to Web Dev.
-* ⚡ **Fun Fact:** My code usually runs faster than I can finish laughing.
-
----
-
-## 📬 Get in Touch
-
-* **LinkedIn:** [Your Name]
-* **Twitter/X:** [@YourHandle]
-* **Email:** michael@example.com
 
 ---
 
 ### 🌙 Midnight Philosophy
 > `while (bug_exists) { coffee.drink(); michael.think(); }`
 
-**Thanks for dropping by! If you find my work useful, give it a ⭐—it keeps the "hhhh" going!**
