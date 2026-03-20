@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michael (@michaelmjhhhh)
 
-### "Some say I'm still holding down the 'H' key to this day..."
+### I HATE USING VIM!!!"
 
 ---
 
