@@ -30,8 +30,6 @@ I'm a developer who believes that clean code and a good sense of humor are the t
 
 ## 📊 Git Stats & Activity
 
-![Michael's Stats](https://github-readme-stats.vercel.app/api?username=michaelmjhhhh&show_icons=true&theme=tokyonight&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michaelmjhhhh&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmjhhhh&layout=compact&theme=tokyonight)
