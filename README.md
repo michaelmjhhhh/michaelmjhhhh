@@ -14,9 +14,9 @@ I'm a IB student and FRC programmer. I'm interested in anything related to progr
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, TypeScript, Golang |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, FastAPI, PostgreSQL, Redis |
+| **Languages** | Python, JavaScript, TypeScript, Java, C++ |
+| **Frontend** | React, Next.js, Tailwind CSS, Flutter |
+| **Backend** | Node.js, FastAPI, PostgreSQL |
 | **DevOps** | Docker, GitHub Actions, AWS |
 
 ---
