@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michael (@michaelmjhhhh)
 
-### I HATE USING VIM!!!"
+### I HATE USING VIM!!!
 
 ---
 
