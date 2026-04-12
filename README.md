@@ -54,9 +54,9 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🎯 <a href="https://github.com/michaelmjhhhh/TodoFocus">TodoFocus</a></h3>
-      <p><em>A distraction-free, open-source task manager built with Go (Wails) and React.</em></p>
+      <p><em>A distraction-free, open-source task manager built with Swift.</em></p>
       <ul>
-        <li>Implemented <b>SM-2 Spaced Repetition</b> for deep learning.</li>
+        <li>Implemented <b>hard focus mode/b> for deep learning.</li>
         <li>Minimalist UI designed for "Flow State" coding.</li>
         <li>Local-first data storage with SQLite.</li>
       </ul>
