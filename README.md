@@ -8,16 +8,14 @@
 
 ---
 
-## 🧠 About Me
+## About Me
+- Passionate about coding and building cool things
+- Interested in AI, software engineering, and robotics
 
-- 💻 Passionate about coding and building cool things
-- 🤖 Interested in AI, software engineering, and robotics
-- 🚀 Exploring full-stack development and real-world problem solving
-- 🌙 Still learning, still building, still debugging
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Languages
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
@@ -32,11 +30,8 @@
 
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
 ### Cloud & Database
@@ -85,18 +80,5 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=michaelmjhhhh&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmjhhhh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
