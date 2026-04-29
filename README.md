@@ -43,6 +43,7 @@ I care about tools that are local-first, fast, and genuinely useful.
         <li><b>Launchpad</b> — attach links, files, apps; launch in one click</li>
         <li><b>Instant Capture</b> — global <code>⌘⇧T</code> + voice input</li>
         <li><b>Local-first</b> — 100% SQLite, no accounts, no cloud</li>
+        <li>see[TodoFocus Landing Page](https://michaelmjhhhh.github.io/TodoFocus/)</li>
       </ul>
       <img src="https://img.shields.io/github/stars/michaelmjhhhh/TodoFocus?style=flat-square&color=111111&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/SwiftUI-111111?style=flat-square&logo=swift&logoColor=white" />
