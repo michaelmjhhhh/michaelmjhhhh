@@ -5,10 +5,7 @@
 </div>
 
 <br/>
-
-Building at the intersection of **AI**, **software engineering**, and **robotics**.  
 I care about tools that are local-first, fast, and genuinely useful.
-
 <br/>
 
 ---
@@ -18,12 +15,9 @@ I care about tools that are local-first, fast, and genuinely useful.
 ![Python](https://img.shields.io/badge/python-111111?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-111111?style=flat-square&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-111111?style=flat-square&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/c++-111111?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Julia](https://img.shields.io/badge/julia-111111?style=flat-square&logo=julia&logoColor=white)
 ![Go](https://img.shields.io/badge/go-111111?style=flat-square&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-111111?style=flat-square&logo=javascript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-111111?style=flat-square&logo=dart&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-111111?style=flat-square&logo=lua&logoColor=white)
+
 
 ### `/ frameworks & infra`
 
@@ -52,18 +46,6 @@ I care about tools that are local-first, fast, and genuinely useful.
       </ul>
       <img src="https://img.shields.io/github/stars/michaelmjhhhh/TodoFocus?style=flat-square&color=111111&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/SwiftUI-111111?style=flat-square&logo=swift&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/michaelmjhhhh/vibe-shot">vibe-shot</a></h4>
-      <p><em>AI-powered CLI to automate macOS screenshot management.</em></p>
-      <ul>
-        <li><b>Vision AI</b> — generates semantic, slug-style filenames</li>
-        <li><b>Fast</b> — built in Go with <code>fsnotify</code> for instant file watching</li>
-        <li><b>Workflow-ready</b> — built for Obsidian + vibe coding sessions</li>
-      </ul>
-      <img src="https://img.shields.io/github/stars/michaelmjhhhh/vibe-shot?style=flat-square&color=111111&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=white" />
-    </td>
   </tr>
 </table>
 
