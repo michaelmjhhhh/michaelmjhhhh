@@ -1,84 +1,80 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!%F0%9F%91%8B+I+am+Michael...)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=still+figuring+out+how+to+exit+Vim%F0%9F%98%AD)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1a1a1a&height=140&section=header&text=Michael&fontSize=52&fontColor=ffffff&fontAlignY=68&animation=fadeIn&desc=developer%20%2F%20builder%20%2F%20still%20figuring%20out%20vim&descSize=13&descAlignY=84&descAlign=50&descAlpha=40" />
 
 </div>
 
----
+<br/>
 
-## About Me
-- Passionate about coding and building cool things
-- Interested in AI, software engineering, and robotics
+Building at the intersection of **AI**, **software engineering**, and **robotics**.  
+I care about tools that are local-first, fast, and genuinely useful.
 
-
----
-
-# Tech Stack
-
-### Languages
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frameworks & Tools
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-
-### Cloud & Database
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<br/>
 
 ---
 
+### `/ languages`
+
+![Python](https://img.shields.io/badge/python-111111?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-111111?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-111111?style=flat-square&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/c++-111111?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Julia](https://img.shields.io/badge/julia-111111?style=flat-square&logo=julia&logoColor=white)
+![Go](https://img.shields.io/badge/go-111111?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-111111?style=flat-square&logo=javascript&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-111111?style=flat-square&logo=dart&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-111111?style=flat-square&logo=lua&logoColor=white)
+
+### `/ frameworks & infra`
+
+![React](https://img.shields.io/badge/react-111111?style=flat-square&logo=react&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-111111?style=flat-square&logo=nestjs&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-111111?style=flat-square&logo=flask&logoColor=white)
+![Electron](https://img.shields.io/badge/electron-111111?style=flat-square&logo=electron&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-111111?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-111111?style=flat-square&logo=sqlite&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-111111?style=flat-square&logo=vercel&logoColor=white)
+
 ---
 
-## 🚀 Featured Projects
+### `/ projects`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/michaelmjhhhh/TodoFocus">TodoFocus</a></h3>
-      <p><em>A native macOS task app built for momentum, not just storage.</em></p>
+      <h4><a href="https://github.com/michaelmjhhhh/TodoFocus">TodoFocus</a></h4>
+      <p><em>Native macOS task app built for momentum, not just storage.</em></p>
       <ul>
-        <li><b>🚫 Hard Focus:</b> A commitment-based timer designed to make focus harder to break.</li>
-        <li><b>🚀 Launchpad:</b> Attach links/files/apps to tasks and launch them in one click.</li>
-        <li><b>⚡ Instant Capture:</b> Global <code>⌘⇧T</code> and voice input to stay in the flow.</li>
-        <li><b>🔒 Local-first:</b> 100% SQLite, no accounts, no cloud, no nonsense.</li>
+        <li><b>Hard Focus</b> — commitment-based timer that makes focus harder to break</li>
+        <li><b>Launchpad</b> — attach links, files, apps; launch in one click</li>
+        <li><b>Instant Capture</b> — global <code>⌘⇧T</code> + voice input</li>
+        <li><b>Local-first</b> — 100% SQLite, no accounts, no cloud</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/github/stars/michaelmjhhhh/TodoFocus?style=flat-square&logo=github" alt="Stars">
-        <img src="https://img.shields.io/badge/Tech-SwiftUI%20|%20Native-F2994A?style=flat-square&logo=swift" alt="Tech">
-      </p>
+      <img src="https://img.shields.io/github/stars/michaelmjhhhh/TodoFocus?style=flat-square&color=111111&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/SwiftUI-111111?style=flat-square&logo=swift&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>📸 <a href="https://github.com/michaelmjhhhh/vibe-shot">vibe-shot</a></h3>
-      <p><em>AI-powered CLI tool to automate macOS screenshot management.</em></p>
+      <h4><a href="https://github.com/michaelmjhhhh/vibe-shot">vibe-shot</a></h4>
+      <p><em>AI-powered CLI to automate macOS screenshot management.</em></p>
       <ul>
-        <li><b>🤖 Vision AI:</b> Automatically generates semantic, slug-style filenames.</li>
-        <li><b>⚡ High Performance:</b> Built with Go using fsnotify for instant file watching.</li>
-        <li><b>🛠 Workflow-Ready:</b> Perfect for Obsidian users and "Vibe Coding" sessions.</li>
+        <li><b>Vision AI</b> — generates semantic, slug-style filenames</li>
+        <li><b>Fast</b> — built in Go with <code>fsnotify</code> for instant file watching</li>
+        <li><b>Workflow-ready</b> — built for Obsidian + vibe coding sessions</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/github/stars/michaelmjhhhh/vibe-shot?style=flat-square&logo=github" alt="Stars">
-        <img src="https://img.shields.io/badge/Tech-Go%20|%20AI-00ADD8?style=flat-square&logo=go" alt="Tech">
-      </p>
+      <img src="https://img.shields.io/github/stars/michaelmjhhhh/vibe-shot?style=flat-square&color=111111&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=white" />
     </td>
   </tr>
 </table>
 
-
 ---
 
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=michaelmjhhhh&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmjhhhh&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=5" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:111111&height=80&section=footer" />
