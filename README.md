@@ -1,6 +1,4 @@
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1a1a1a&height=140&section=header&text=Michael&fontSize=52&fontColor=ffffff&fontAlignY=68&animation=fadeIn&desc=developer%20%2F%20builder%20%2F%20still%20figuring%20out%20vim&descSize=13&descAlignY=84&descAlign=50&descAlpha=40" />
-</div>
+
 
 <br/>
 
@@ -64,4 +62,3 @@ https://vibe-space.vercel.app
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:111111&height=80&section=footer" />
