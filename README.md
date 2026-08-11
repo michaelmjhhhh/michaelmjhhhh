@@ -16,7 +16,6 @@ View [my site](https://www.michaelmjh.me). I guess.
    - I contribute to [CheetahBots 8015](https://github.com/Cheetahbots8015) and work on robotics and scouting software.
 
 ## Contact
-   - Website: [michaelmjh.me](https://www.michaelmjh.me)
    - Email: [mjh4311@163.com](mailto:mjh4311@163.com)
    - X: [@Ma7039Ma](https://x.com/Ma7039Ma)
 
