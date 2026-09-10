@@ -10,7 +10,7 @@ View [my site](https://www.michaelmjh.me). I guess.
    - [pi-agent-dotfiles](https://github.com/michaelmjhhhh/pi-agent-dotfiles) — My Pi Agent configuration.
 
 ## Technologies
-   - TypeScript, Swift, SwiftUI, Python, Rust, Lua, and SQL.
+   - TypeScript, Swift, SwiftUI, and Python.
 
 ## Other Work
    - I contribute to [CheetahBots 8015](https://github.com/Cheetahbots8015) and work on robotics and scouting software.
