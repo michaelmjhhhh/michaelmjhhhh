@@ -17,6 +17,6 @@ View [my site](https://www.michaelmjh.me). I guess.
 
 ## Contact
    - Email: [mjh4311@163.com](mailto:mjh4311@163.com)
-   - X: [@Ma7039Ma](https://x.com/Ma7039Ma)
+
 
 
