@@ -52,5 +52,4 @@ I build software that feels calm to use. By day I am an IB Diploma student in Sh
 - **Robotics** &#183; Programmer for [FRC Team 8015, CheetahBots](https://github.com/Cheetahbots8015), building scouting and match-analysis software.
 - **Writing** &#183; Notes on what I build and what I get wrong, at [michaelmjh.me](https://www.michaelmjh.me).
 
-<h3 align="center">Numbers</h3>
 
