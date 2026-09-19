@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Michael Ma, full-stack developer">
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D97757" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#D97757" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#D97757"/>
+      <stop offset="1" stop-color="#D97757" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="#1F1E1D"/>
+  <circle cx="1070" cy="30" r="230" fill="url(#glow)"/>
+  <circle cx="90" cy="330" r="190" fill="#D97757" opacity="0.06"/>
+  <rect x="80" y="94" width="64" height="3" rx="1.5" fill="url(#rule)"/>
+  <text x="78" y="178" font-family="ui-serif, Georgia, 'Times New Roman', Times, serif" font-size="70" font-weight="600" fill="#F0EEE6" letter-spacing="0.5">Michael Ma</text>
+  <text x="80" y="224" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#A8A59C" letter-spacing="0.3">Full-stack developer &#183; IB student &#183; Shanghai, China</text>
+</svg>
