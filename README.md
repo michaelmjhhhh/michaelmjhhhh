@@ -54,24 +54,3 @@ I build software that feels calm to use. By day I am an IB Diploma student in Sh
 
 <h3 align="center">Numbers</h3>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=michaelmjhhhh&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&border_radius=14&bg_color=1F1E1D&title_color=D97757&icon_color=D97757&text_color=F0EEE6">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=michaelmjhhhh&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&border_radius=14&bg_color=FAF9F5&title_color=C15F3C&icon_color=C15F3C&text_color=191917">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmjhhhh&layout=compact&langs_count=8&hide_border=true&border_radius=14&bg_color=1F1E1D&title_color=D97757&text_color=F0EEE6">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmjhhhh&layout=compact&langs_count=8&hide_border=true&border_radius=14&bg_color=FAF9F5&title_color=C15F3C&text_color=191917">
-  </picture>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=michaelmjhhhh&hide_border=true&background=1F1E1D&ring=D97757&fire=D97757&currStreakNum=F0EEE6&sideNums=F0EEE6&currStreakLabel=D97757&sideLabels=A8A59C&dates=A8A59C">
-    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=michaelmjhhhh&hide_border=true&background=FAF9F5&ring=C15F3C&fire=C15F3C&currStreakNum=191917&sideNums=191917&currStreakLabel=C15F3C&sideLabels=6E6C64&dates=6E6C64">
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <sub>Shanghai, China &#183; <a href="https://www.michaelmjh.me">michaelmjh.me</a> &#183; <a href="mailto:mjh4311@163.com">mjh4311@163.com</a></sub>
-</div>
