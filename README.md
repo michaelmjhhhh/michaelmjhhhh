@@ -10,8 +10,6 @@
 
 I build software that feels calm to use. By day I am an IB Diploma student in Shanghai; the rest of the time I ship native macOS apps, terminal tools for coding agents, and whatever else catches my curiosity. I care about warm interfaces, small binaries, and doing one thing properly.
 
-Mostly Swift, TypeScript, Go, Python, and Java, with detours into Rust, Lua, and FRC robotics.
-
 <h3 align="center">Selected work</h3>
 
 | Project | What it is | Stack |
