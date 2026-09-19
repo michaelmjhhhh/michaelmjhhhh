@@ -1,11 +1,4 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" alt="Michael Ma, full-stack developer" width="100%">
-  </picture>
-</div>
-
-<div align="center">
   <br>
   <a href="https://www.michaelmjh.me"><img alt="Website" src="https://img.shields.io/badge/michaelmjh.me-C15F3C?style=flat-square&logo=safari&logoColor=FAF9F5"></a>
   <a href="mailto:mjh4311@163.com"><img alt="Email" src="https://img.shields.io/badge/mjh4311@163.com-C15F3C?style=flat-square&logo=maildotru&logoColor=FAF9F5"></a>
