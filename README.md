@@ -14,7 +14,7 @@ I build software that feels calm to use. By day I am an IB Diploma student in Sh
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
-| **[pi-atelier](https://github.com/michaelmjhhhh/pi-atelier)** <br>`★ 270` | An elegant status rail, menu, and sidebar for the Pi coding agent, published on npm with no telemetry and no network calls. | `TypeScript` |
+| **[pi-atelier](https://github.com/michaelmjhhhh/pi-atelier)** <br>`★ 271` | An elegant status rail, menu, and sidebar for the Pi coding agent, published on npm with no telemetry and no network calls. | `TypeScript` |
 | **[TodoFocus](https://github.com/michaelmjhhhh/TodoFocus)** | Local-first macOS task app built to help you finish things rather than collect them. Native SwiftUI over SQLite. | `Swift` `SwiftUI` |
 | **[Moyan](https://github.com/michaelmjhhhh/Moyan)** | Offline desktop reader for local MDX/MDD dictionary packages, for people who would rather not be online to look up a word. | `Go` `Wails` |
 | **[tokidex](https://github.com/michaelmjhhhh/tokidex)** | Terminal UI for inspecting local Codex token usage, so you can see where the context actually went. | `Rust` |
