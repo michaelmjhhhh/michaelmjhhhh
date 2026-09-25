@@ -28,7 +28,6 @@ I build software that feels calm to use. By day I am an IB Diploma student in Sh
 <div align="center">
 
 <img alt="Swift" src="https://img.shields.io/badge/Swift-C15F3C?style=flat-square&logo=swift&logoColor=FAF9F5">
-<img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-C15F3C?style=flat-square&logo=swift&logoColor=FAF9F5">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-C15F3C?style=flat-square&logo=typescript&logoColor=FAF9F5">
 <img alt="Go" src="https://img.shields.io/badge/Go-C15F3C?style=flat-square&logo=go&logoColor=FAF9F5">
 <img alt="Python" src="https://img.shields.io/badge/Python-C15F3C?style=flat-square&logo=python&logoColor=FAF9F5">
@@ -40,7 +39,6 @@ I build software that feels calm to use. By day I am an IB Diploma student in Sh
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-C15F3C?style=flat-square&logo=nodedotjs&logoColor=FAF9F5">
 <img alt="Docker" src="https://img.shields.io/badge/Docker-C15F3C?style=flat-square&logo=docker&logoColor=FAF9F5">
 <img alt="Git" src="https://img.shields.io/badge/Git-C15F3C?style=flat-square&logo=git&logoColor=FAF9F5">
-<img alt="Neovim" src="https://img.shields.io/badge/Neovim-C15F3C?style=flat-square&logo=neovim&logoColor=FAF9F5">
 <img alt="Astro" src="https://img.shields.io/badge/Astro-C15F3C?style=flat-square&logo=astro&logoColor=FAF9F5">
 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-C15F3C?style=flat-square&logo=latex&logoColor=FAF9F5">
 
